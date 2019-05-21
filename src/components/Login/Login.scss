@@ -1,0 +1,17 @@
+.login-wrapper {
+  text-align: center;
+  .form {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    .input {
+      padding: 4px 6px;
+      border-radius: 3px;
+      margin: 4px;
+    }
+    .btn {
+      margin: 6px;
+      padding: 6px 8px;
+    }
+  }
+}

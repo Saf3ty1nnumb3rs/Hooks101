@@ -1,0 +1,11 @@
+.light {
+  height: 45px;
+  width: 45px;
+  background-color: lightgrey;
+  &.glow {
+    background-color: yellow;
+  }
+  &:focus {
+    outline: none;
+  }
+}

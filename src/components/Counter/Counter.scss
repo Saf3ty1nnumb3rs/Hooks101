@@ -1,0 +1,38 @@
+button {
+  &.btn {
+    font-weight: bold;
+    box-shadow: 1px 2px 3px grey;
+    &.standard {
+      border: solid black 1px;
+      margin: 10px;
+      border-radius: 8px;
+      padding: 4px 8px;
+    }
+    &.primary {
+      color: #ffffff;
+      border: none;
+      background-color: cornflowerblue;
+      min-width: 40px;
+    }
+    &.small {
+      padding: 2px 10px;
+      border-radius: 12px;
+      font-size: 14px;
+      border: none;
+      margin: 3px;
+    }
+    &.danger {
+      color: #ffffff;
+      background-color: rgb(253, 77, 77);
+    }
+    &.success {
+      color: #ffffff;
+      background-color: rgb(77, 253, 136);
+    }
+    &.disabled {
+      background-color: grey;
+      box-shadow: 1px 1px 2px lightgrey;
+    }
+  }
+  
+}
