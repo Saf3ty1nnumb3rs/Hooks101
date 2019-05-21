@@ -1,3 +1,14 @@
+# Introduction To React Hooks - React 16.8
+
+### Utilizes React Hooks - useState, useEffects
+
+#### Utilizes effects which require subscription and those that don't
+
+* React 16.8
+* Hooks
+* SASS/SCSS
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
